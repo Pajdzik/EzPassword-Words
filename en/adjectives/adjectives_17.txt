@@ -1073,7 +1073,6 @@ microthrombogenic
 microtribological
 microvascularized
 Middle Indo-Aryan
-millipolarization
 Mills-and-Boonish
 misconceptualized
 misdifferentiated
@@ -1369,6 +1368,7 @@ opisthobranchiate
 optoelectroactive
 optophysiological
 optospectroscopic
+organoautotrophic
 organochlorinated
 organohalogenated
 organophosphorous

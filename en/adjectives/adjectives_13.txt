@@ -925,6 +925,7 @@ benzannulated
 Bermuda green
 berylliferous
 berylliumlike
+beta-lactamic
 betanodaviral
 Betjemanesque
 Bhartriharian
@@ -4690,6 +4691,7 @@ macroconidial
 macrocultural
 macrodactylic
 macroeconomic
+macroesthetic
 macrogranular
 macrohistoric
 macroinfaunal
@@ -4838,6 +4840,7 @@ megalopolitan
 megalosaurian
 megalosauroid
 megalospheric
+megapolitical
 megascolecine
 melancholious
 Melanchthonic
@@ -4970,6 +4973,7 @@ microcultural
 microecologic
 microeconomic
 microelectric
+microesthetic
 microfeatural
 microfelsitic
 microfibrotic

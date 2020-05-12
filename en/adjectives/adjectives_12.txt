@@ -284,6 +284,7 @@ allomaternal
 allometrical
 alloparental
 allopaternal
+allopathetic
 alloreactive
 allospecific
 allosterical
@@ -1064,6 +1065,7 @@ Armenophobic
 armillarioid
 armor-plated
 arm's length
+arm's-length
 Armstrongian
 aromatizable
 arrenotokous
@@ -5274,6 +5276,7 @@ infranuclear
 infraoptimal
 infraorbital
 infraordinal
+infrapyloric
 infrarostral
 infraspinate
 infraspinous
@@ -5527,6 +5530,7 @@ interseismic
 interseizure
 intersensory
 intersepalar
+interserovar
 interservice
 intersession
 intersibling
@@ -7622,6 +7626,7 @@ nonbudgetary
 nonburrowing
 nonbutterfat
 noncacheable
+noncadaveric
 noncalcified
 noncalorific
 noncanalized
@@ -7935,6 +7940,7 @@ nonfreezable
 nonfricative
 nonfrivolous
 nonfulfilled
+nonfulminant
 nonfumigated
 nonfusogenic
 nongabaergic
@@ -8068,6 +8074,7 @@ nonligatable
 nonlignified
 nonlipidated
 nonliposomal
+nonliquefied
 nonlistening
 nonlitigable
 nonlitigious
@@ -12145,6 +12152,7 @@ subrecursive
 subribosomal
 subsagittate
 subsaturated
+subschematic
 subscribable
 subscriptive
 subscutellar

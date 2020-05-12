@@ -6811,6 +6811,8 @@ isopeptidic
 isoperiodic
 isophthalic
 isoplanatic
+isopycnotic
+isopyknotic
 isorhythmic
 isosemantic
 isospecific

@@ -343,6 +343,7 @@ all eyes
 all that
 all-caps
 all-fire
+all-good
 all-nite
 all-over
 all-star
@@ -1894,6 +1895,7 @@ cantonal
 cantoned
 cantoral
 cantoris
+Canutian
 Canutish
 canvassy
 canyoned
@@ -5097,6 +5099,7 @@ heavyset
 hebetant
 hebetate
 Hebreish
+Hecatean
 Hecatine
 hectical
 hectorly
@@ -5108,6 +5111,7 @@ heftable
 Hegelian
 Heinz 57
 heirless
+Hekatean
 hel bent
 hel-bent
 heliacal
@@ -7565,6 +7569,7 @@ nonharam
 nonhardy
 nonheart
 nonheavy
+nonhemic
 nonhilar
 nonhilly
 nonhorse
@@ -7817,6 +7822,7 @@ notalgic
 notalian
 notarial
 notative
+notaular
 noteless
 notelike
 notewise

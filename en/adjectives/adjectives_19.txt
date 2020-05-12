@@ -469,6 +469,7 @@ palaeospinothalamic
 paleanthropological
 paleoceanographical
 paleoclimatological
+paleodermatoglyphic
 paleodistributional
 paleoethnobotanical
 paleoichthyological
@@ -479,6 +480,7 @@ paragigantocellular
 paramagnetoelectric
 parasympathicotonic
 parasympathomimetic
+parotideomasseteric
 penecontemporaneous
 Pennsylvania German
 pentafunctionalised
